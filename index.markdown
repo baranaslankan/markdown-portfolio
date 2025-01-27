@@ -1,4 +1,4 @@
-# Baran Aslanka Portfolio
+# Baran Aslankan Portfolio
 
 This is a paragraph about me...
 
