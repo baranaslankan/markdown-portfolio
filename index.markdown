@@ -3,9 +3,9 @@ Welcome to my portfolio!
 ---
 
 ## Navigation  
-- [Employment](employment.md)  
-- [Education](education.md)  
-- [Contact](contact.md)  
+- [Employment](employment.markdown)  
+- [Education](education.markdown)  
+- [Contact](contact.markdown)  
 
 ---
 
