@@ -3,7 +3,6 @@ Welcome to my portfolio!
 ---
 
 ## Navigation  
-- [About Me](index.md)  
 - [Employment](employment.md)  
 - [Education](education.md)  
 - [Contact](contact.md)  
