@@ -3,7 +3,7 @@
 This is my education page...
 
 [About Me](index)
-[Employement](employment)
+[Employment](employment)
 [Contact](contact)
 
 ---
