@@ -4,7 +4,7 @@ This is my contact page...
 
 [About Me](index)
 [Education](education)
-[Employement](employment)
+[Employment](employment)
 
 ---
 
