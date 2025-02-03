@@ -1,5 +1,3 @@
-# Baran Aslankan Portfolio
-
 Welcome to my portfolio!
 
 ---
